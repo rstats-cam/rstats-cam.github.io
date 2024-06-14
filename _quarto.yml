@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "cambRidge-site"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: events.qmd
+        text: Upcoming Events
+      - href: blogs.qmd
+        text: Blog Posts
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

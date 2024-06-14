@@ -1,0 +1,16 @@
+---
+title: "cambRidge R User Group"
+---
+
+We're an R community based in Cambridge, connecting members of the University, the broader scientific community, startups and enterprises at the Science Park and anyone in Cambridge or with links to Cambridge.
+
+We're brand new, so join our group to learn more of our events lineup as we roll this out!
+
+This is an official RUG supported by the [R Consortium](https://www.r-consortium.org/).
+
+Find us on [MeetUp](https://www.meetup.com/cambridge-r-user-group/).
+
+
+**Upcoming Events**
+
+**Blog Posts**

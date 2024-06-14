@@ -1,0 +1,14 @@
+---
+title: "Welcome to CambRidge!"
+author:
+  - name: Thomas Zwagerman
+    affiliation: British Antarctic Survey
+date: 06-14-2024
+categories: [Quarto, R, Cambridge] # self-defined categories
+draft: false 
+---
+Welcome to the CambRidge User group!
+
+We are a new R User Group (RUG), to bring together R users in Cambridge.
+
+This is an official RUG supported by the [R Consortium](https://www.r-consortium.org/).

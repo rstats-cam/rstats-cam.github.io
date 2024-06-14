@@ -1,0 +1,10 @@
+---
+title: "blog post title"
+description: "blog post description (appears underneath the title in smaller text) which is included on the listing page"
+author:
+  - name: Thomas Zwagerman
+    affiliation: British Antarctic Survey
+date: 06-14-2024
+categories: [Quarto, R, Cambridge] # self-defined categories
+draft: true 
+---
