@@ -4,6 +4,13 @@ This is a repo for the Quarto website for the CamBridge User Group
 It contains a home page, events, page and blog posts.
 
 ## Contributing
+### Without write access
+Corrections, suggestions and general improvements are welcome as [issues](https://github.com/thomaszwagerman/cambRidge-site/issues).
+
+You can also suggest changes by forking this repository, and opening a pull request. Please target your pull requests to the `main` branch.
+
+### With write access
+You can push directly to main for small fixes. Please use PRs to main for discussing larger updates.
 
 ## Directory Structure
 This a "classic" Quarto website, but also contains blog posts.
@@ -53,6 +60,8 @@ draft: true
 ---
 ```
 Update these details for you blog post. The `draft: true` header prevents publication. When you have finished your blost post, change it to `draft: false`, re-render and push your change (or open a Pull Request, without edit permissions), to publish the post. 
+
+For a detailed breakdown refer to [Quarto's Creating a Blog documentation](https://quarto.org/docs/websites/website-blog.html).
 
 ## Adding an event
 
