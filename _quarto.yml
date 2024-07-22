@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "cambRidge-site"
+  title: "cambRidge"
   navbar:
     left:
       - href: index.qmd
