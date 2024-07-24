@@ -5,10 +5,59 @@ author:
     affiliation: British Antarctic Survey
 date: 06-14-2024
 categories: [Quarto, R, Cambridge] # self-defined categories
-draft: false 
+draft: true 
 ---
 Welcome to the CambRidge User group!
 
-We are a new R User Group (RUG), to bring together R users in Cambridge.
+We are a new R User Group (RUG), aiming to bring together and build a community of R users in Cambridge.
 
 This is an official RUG supported by the [R Consortium](https://www.r-consortium.org/).
+
+## Why do we need an R user group in Cambridge?
+_Isn't there already one in London?_ 
+
+_Well, yes but..._ 
+
+...it is our view that a RUG really is an opportunity for the local R community to come together, share ideas and foster connections. While it is great to attend talks (and there will be some great ones!) this is really a vehicle to form a local community, and bring people together who might otherwise never interact with each other.
+
+Cambridge is really well-situated to host a RUG. First and foremost, we already have a well established [R Ladies Cambridge](https://www.meetup.com/rladies-cambridge/) group, and secondly Cambridge is a real hub of research and innovation. 
+
+Of course, there are the well-known universities, but there are also other research institutes such as the [Wellcome Sanger Institute](https://www.sanger.ac.uk/) or the [British Antarctic Survey](https://www.bas.ac.uk/), as well as major companies such as Apple and Microsoft. Of course R is also widely used in the public sector, in various local councils ([SODA](https://www.suffolkobservatory.info/soda/)) and the NHS ([NHS-R](https://nhsrcommunity.com/)).
+
+These are all very different organisations, but we have one thing in common: _R_.
+
+![A map of RUGs in England. Very empty in the East of England!](rug_desert.png)
+
+The East of England in fact, is a bit of an RUG desert! We think this RUG could have a wider impact beyond Cambridge, there might be interest in Norfolk (UEA, Earlham Institute) and Suffolk (BT, EDF) and would encourage anybody to come along - even if you are not based in Cambridge!
+
+## So what are we going to do?
+We are currently planning four sessions running in 24/25, with the following _provisional_ themes:
+
+First Thursday of the Month:
+
+* September - *R in Teaching*
+* November - *R in the Life Sciences* 
+* January - *R in Production*
+* March - *R in Climate & Sustainability*
+
+These are quite broad topics, but this is intentional. We want to be a community-led group, and we love to platform local speakers that would like to speak on one of these topics. Please get in touch if you are interested in speaking!
+
+## Session Format
+Sessions will be hosted at Newnham College, Sidgwick Ave, Cambridge CB3 9DF.
+
+Our meetings will take place on Thursday evenings, with of course some drinks and nibbles provided (thank you [R Consortium](https://www.r-consortium.org/all-projects/r-user-group-support-program)!).
+
+We will start with a talk from an invited speaker, followed by lightning talks by local RUG members. 
+
+All meetings will then be followed by informal mingling in a venue _TBC_ nearby.
+
+## Who is this RUG for?
+Anyone with an interest in R! Whether you are a seasoned R expert, or a complete beginner, you will be more than welcome in the Cambridge R user group.
+
+## Details and Contact
+
+Please get in touch with (... check who is willing before adding details...) if you are interested in speaking, or have any other questions! 
+
+
+
+

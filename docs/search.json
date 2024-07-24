@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "cambRidge R User Group",
+    "objectID": "blogs.html",
+    "href": "blogs.html",
+    "title": "Direct from Cambridge",
     "section": "",
-    "text": "We’re an R community based in Cambridge, connecting members of the University, the broader scientific community, startups and enterprises at the Science Park and anyone in Cambridge or with links to Cambridge.\nWe’re brand new, so join our group to learn more of our events lineup as we roll this out!\nThis is an official RUG supported by the R Consortium.\nFind us on MeetUp.\nUpcoming Events\nBlog Posts"
+    "text": "No matching items"
   },
   {
     "objectID": "events.html",
@@ -14,17 +14,10 @@
     "text": "Upcoming Events."
   },
   {
-    "objectID": "blogs.html",
-    "href": "blogs.html",
-    "title": "Direct from Cambridge",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "cambRidge R User Group",
     "section": "",
-    "text": "Welcome to CambRidge!\n\n\n\n\n\n\nQuarto\n\n\nR\n\n\nCambridge\n\n\n\n\n\n\n\n\n\nJun 14, 2024\n\n\nThomas Zwagerman\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/2024-06-14-welcome-to-cambRidge/index.html",
-    "href": "posts/2024-06-14-welcome-to-cambRidge/index.html",
-    "title": "Welcome to CambRidge!",
-    "section": "",
-    "text": "Welcome to the CambRidge User group!\nWe are a new R User Group (RUG), to bring together R users in Cambridge.\nThis is an official RUG supported by the R Consortium."
+    "text": "We’re an R community based in Cambridge, connecting members of the University, the broader scientific community, startups and enterprises at the Science Park and anyone in Cambridge or with links to Cambridge.\nWe’re brand new, so join our group to learn more of our events lineup as we roll this out!\nThis is an official RUG supported by the R Consortium.\nFind us on MeetUp.\nUpcoming Events\nBlog Posts"
   }
 ]
